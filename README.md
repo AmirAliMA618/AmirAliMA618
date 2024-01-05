@@ -1,4 +1,5 @@
-- 👋 Hi, I’m AmirAli
+- 👋 Hello, I’m AmirAli
+- 👨‍🎓 I'm currently a highschool student
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Python, PHP and HTML
 - 💞️ I’m looking to collaborate on AI and ML projects
